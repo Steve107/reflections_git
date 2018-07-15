@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug 
+that was introduced?
+
+    It may be useful to find out typos or to focus on how differences between files 
+    generate errors in code execution.
+
+How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term? 
+
+    It helps you to restore changes or to test different versions of a file without 
+    irrirremediably delete your functioning code and in a few seconds. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: You can choose whenever to create a commit, making them meaningful and logical. 
+    You can choose how much consecutive commits should be different. 
+
+    Cons: You may forget to create a commit after a change. Automatic committing
+    may help you to keep track of all changes, without worrying about the commit size.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    According to me, this is due to the target of each version control system:
+    Google Docs is for normal users, who usually need to keep track of the history
+    of small text documents, whereas Git was made for developers, who need to record 
+    changes of pages and pages of code, even in related files. Moreover multiple commit
+    helps programmers to monitor how a change interacts with other parts of the code, 
+    making finding bugs a lot easier.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    "git log" allows you to watch all the commits you have crated and git diff to
+    see the differences between two commits. Using these two commands together
+    you can follow the evolution of your code for each file.
+    
+
+How might using version control make you more confident to make changes that
+could break something?
+
+   If you can always restore a previus state of the code, then you will feel 
+   free to experiment with that even with destructive consequences, because 
+   you can easily fix the problem.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+ 	I'm going to use Git for Android appd development, and my other programming
+ 	projects. However, it may be useful also for other kinds  of tasks.
