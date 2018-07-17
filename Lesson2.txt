@@ -49,4 +49,5 @@ manually?
 	However, if you want to control the merging process precisely, 
 	in a different way from what Git does (and of course if you have to solve merging conflicts), 
 	then doing this task manually is a better solution (but remember you shuold always take into 
-	account the ammuont of code you need to modify). 
+	account the ammuont of code you need to modify).
+	 
