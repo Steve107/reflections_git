@@ -7,7 +7,9 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Automatic pull of a remote can help you to keep up with what
+    your colleagues are doing. However, if you are writing in local
+    the same part ofcode as your team mates, you may get unexpected changes, which are confusing or don't work with your code.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
