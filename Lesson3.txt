@@ -9,12 +9,19 @@ automatically stay up-to-date with your remote repository?
 
     Automatic pull of a remote can help you to keep up with what
     your colleagues are doing. However, if you are writing in local
-    the same part ofcode as your team mates, you may get unexpected changes, which are confusing or don't work with your code.
+    the same part ofcode as your team mates, you may get unexpected changes, 
+    which are confusing or don't work with your code.
 
-Describe the differences between forks, clones, and branches.  When would you
+Describe the differences between forks, clones, and branches. When would you
 use one instead of another?
 
-    Fill in your answer here
+    Cloning is used when you need to copy a GitHub repository into your 
+    computer, in order to modify or use it locally. Forking is used to create
+    a GitHub repository starting from an extisting one. It is useful to create 
+    an alternative or updated version of a project. Branches are labels for
+    different production lines. They are helpful to create slightly different 
+    or updated version of a code and test it before merging changes into the
+    official release.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
