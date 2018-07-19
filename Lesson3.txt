@@ -30,10 +30,15 @@ stored locally?
     local repository. Moreover you can use this just to check how the 
     project is going on. 
  
-How would you collaborate without using Git or GitHub?  What would be easier,
+How would you collaborate without using Git or GitHub? What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    According to me Git and GitHub make a lot easier sharing, combining and 
+    comparing different code versions to get the best. 
+    However, I think that if I had to use other tools, I'd rather use another
+    version-control system and a chat client, which makes colaborating, sharing 
+    files and exchanging ideas among many people faster, though they aren't 
+    integrated with other development tools. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
