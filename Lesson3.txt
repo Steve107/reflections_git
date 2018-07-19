@@ -26,8 +26,10 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
-
+    You can access it offline and check changes before merging it with the 
+    local repository. Moreover you can use this just to check how the 
+    project is going on. 
+ 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
