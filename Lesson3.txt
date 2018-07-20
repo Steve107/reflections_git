@@ -41,6 +41,11 @@ and what would be harder?
     integrated with other development tools. 
 
 When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+master? What benefits does each approach have?
 
-    Fill in your answer here
+    According to me, the first approach should be used when creating new 
+    changes which should be checcked before being committed to the master
+    branch, because it isn't destructive and you don't update the master 
+    branch (usually the official and stable one) with unstable features. 
+    However, if something should be fixed really fast, maybe updating the 
+    master branch makes it more visible to the community.
